@@ -9,7 +9,7 @@
 
 The labels are in both PNG and PSD format, but the files are far too large to host on GitHub, so actual files are hosted on Mega and can be found here:
 
-[https://mega.nz/fm/q5AmFbAB](https://mega.nz/fm/q5AmFbAB)
+[https://mega.nz/file/X4YHUAoD#QOPM02DpRGYEZATKoZSZABRnGs2LQTmJRWKhJJeFvEg](https://mega.nz/file/X4YHUAoD#QOPM02DpRGYEZATKoZSZABRnGs2LQTmJRWKhJJeFvEg)
 
 | ![3.5" Floppies](https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/iigs.floppy.disk.labels/3.5.png) | 
 |:--:| 
