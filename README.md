@@ -7,7 +7,7 @@
 
 <p><small><i>Some of the images were sourced from Google image search. If any of the used images belong to you, I apologize, and I can give you credit or remove the label from the repository upon request.</i></small></p>
 
-The labels are in both PNG and PSD format, but the files are far too large to host on GitHub, so actual files are hosted on Mega and can be found here:
+The labels are in both PNG and PSD format. The files can be found under the <a href="https://github.com/mcbeav/iigs.floppy.disk.labels/releases" alt="Releases">Releases</a> section or can be found hosted at Mega using the link below.
 
 [https://mega.nz/file/X4YHUAoD#QOPM02DpRGYEZATKoZSZABRnGs2LQTmJRWKhJJeFvEg](https://mega.nz/file/X4YHUAoD#QOPM02DpRGYEZATKoZSZABRnGs2LQTmJRWKhJJeFvEg)
 
